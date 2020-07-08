@@ -1,0 +1,10 @@
+nav {
+    background: lightgray;
+}
+
+#logo {
+    font-size: 24px;
+    color: #eee;
+    background: lightseagreen;
+    font-weight: bold;
+}

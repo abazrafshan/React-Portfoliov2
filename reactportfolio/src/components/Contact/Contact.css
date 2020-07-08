@@ -1,0 +1,16 @@
+.margin {
+    margin:20px;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.block {
+    background: lightgray;
+    margin-bottom: 0px;
+}
+
+.textcolor {
+    color: lightseagreen;
+}

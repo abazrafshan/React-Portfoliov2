@@ -1,0 +1,59 @@
+.margin {
+    margin:20px;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.block {
+    background: lightgray;
+    margin-bottom: 0px;
+}
+
+.textcolor {
+    color: lightseagreen;
+}
+
+.banner {
+    position: absolute;
+    bottom: 0px;
+    width: 92%;
+    padding: 20px 0px;
+    margin: 5% 5% 0% 5% auto;
+    font-weight: 300;
+    line-height: 30px;
+    color: white;
+    text-align: center;
+    background: lightseagreen;
+}
+
+.thumbnail {
+    margin: 5% auto;
+    width:92%;
+    height: fit-content;
+}
+
+@media screen and (max-width: 980px) {
+    .banner {
+        width: 93%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .banner {
+        width: 88%;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .banner {
+        width: 91%;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .banner {
+        width: 90%;
+    }
+}
