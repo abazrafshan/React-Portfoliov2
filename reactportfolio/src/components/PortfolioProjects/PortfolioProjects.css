@@ -11,27 +11,30 @@
     margin-bottom: 0px;
 }
 
-.textcolor {
-    color: lightseagreen;
-}
+/* .textcolor {
+    color: black;
+} */
 
 .banner {
     position: absolute;
     bottom: 0px;
-    width: 92%;
+    width: 90%;
     padding: 20px 0px;
     margin: 5% 5% 0% 5% auto;
     font-weight: 300;
     line-height: 30px;
-    color: white;
+    color: white !important;
     text-align: center;
     background: lightseagreen;
+    border: 2px solid white;
 }
 
 .thumbnail {
     margin: 5% auto;
-    width:92%;
-    height: fit-content;
+    margin-right: 2%;
+    width:98%;
+    height: 90%;
+    border: 3px solid white;
 }
 
 @media screen and (max-width: 980px) {

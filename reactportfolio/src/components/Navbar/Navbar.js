@@ -1,5 +1,6 @@
 import React from "react";
 import "./Navbar.css";
+import { Link } from 'react-router';
 
 export default function Navbar(){
     return (
@@ -14,13 +15,13 @@ export default function Navbar(){
                 <ul className="navbar-nav mr-auto">
                     {/* List will redirect user to each of the three pages of this web site */}
                     <li className="nav-item">
-                    <a className="nav-link" href="index.html">About Me <span className="sr-only">(current)</span></a>
+                    <a className="nav-link" href="about">About Me <span className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link" href="portfolio.html">Portfolio <span className="sr-only">(current)</span></a>
+                    <a className="nav-link" href="portfolio">Portfolio <span className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link" href="contact.html">Contact <span className="sr-only">(current)</span></a>
+                    <a className="nav-link" href="contact">Contact <span className="sr-only">(current)</span></a>
                     </li>
                 </ul>
             </span>
@@ -28,3 +29,4 @@ export default function Navbar(){
         </div>
     )
 }
+

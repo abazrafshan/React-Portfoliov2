@@ -8,9 +8,13 @@
 }
 
 .textcolor {
-    color: lightseagreen;
+    color: blue !important;
 }
 
 .margin-right {
     margin-right: 10px;
+}
+
+.textalignleft {
+    text-align: left;
 }
