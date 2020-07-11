@@ -1,14 +1,14 @@
 import React from "react";
-// import Navbar from "../components/Navbar/Navbar";
+import Navbar from "../components/Navbar/Navbar";
 import AboutMe from "../components/AboutMe/AboutMe";
-// import Footer from "../src/components/Footer";
+import Footer from "../components/Footer/Footer";
 
 export default function About(){
     return (
         <div>
-            {/* <Navbar/> */}
+            <Navbar/>
                 <AboutMe/>
-            {/* <Footer/> */}
+            <Footer/>
         </div>
     )
 }
