@@ -3,11 +3,12 @@ import "./Contact.css";
 
 export default function Contact(){
     return (
-        <div className="container float-left margin">
+        <div>
+        <div className="container float-left backgroundabout">
             <div className="row">
-                <div className="col-md-8">
-                    <div className="block padding">
-                        <h3 className="textcolor block-header">Contact</h3>
+                <div className="col-md-6">
+                    <div className="padding transparent margin">
+                        <h2 className="textcolor block-header">Contact</h2>
                         <p>Cell: (952) 649-1562</p>
                         <p>Email: abazrafshan123@gmail.com</p>
                         <hr/>
@@ -33,6 +34,7 @@ export default function Contact(){
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     )
 }

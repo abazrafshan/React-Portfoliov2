@@ -10,11 +10,11 @@ import workday from "../../Assets/Images/workday.png";
 
 export default function PortfolioProjects(){
     return(
-        <div className="container float-left margin" style={{marginBottom: "100px"}}>
+        <div className=" container float-left backgroundportfolio" style={{marginBottom: "50px"}}>
         <div className="row">
-            <div className="col-md-8">
-                <div className="block padding">
-                <h3 className="textcolor ">Portfolio</h3>
+            <div className="col-md-6">
+                <div className="block padding transparent margin">
+                <h2 className="textcolor ">Portfolio</h2>
                 <hr/>
                 {/* Responsive sizing to display portfolio images and associated banners */}
                 <div className="row">
@@ -54,7 +54,7 @@ export default function PortfolioProjects(){
             </div>
             </div>
         </div>
-    <br></br>
     </div>
+  
     )
 }

@@ -4,11 +4,11 @@ import aboutme from "../../Assets/Images/aboutme.jpg";
 
 export default function AboutMe(){
     return (
-        <div>
+        <div className="backgroundabout">
             <div className="container float-left">
                 <div className="row">
-                    <div className="col-md-8 p-3 mb-2 bg-white text-dark ">
-                        <div className="block padding clearfix">
+                    <div className="col-md-8 p-3 mb-2 text-dark ">
+                        <div className="block padding clearfix transparent">
                         <h3 className="textcolor block-header">About Me</h3>
                         <hr />
                         {/* Profile picture with margin to the right of image to distance verbage from image  */}

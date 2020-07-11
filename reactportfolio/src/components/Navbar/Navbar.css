@@ -1,10 +1,21 @@
 nav {
-    background: lightgray;
+    background: darkblue;
 }
 
 #logo {
-    font-size: 24px;
+    font-size: 2rem;
     color: #eee;
-    background: lightseagreen;
+    /* background: lightseagreen; */
     font-weight: bold;
+    font-family: 'Playfair Display SC';
+}
+
+.transparent {
+    background-color: transparent !important;
+    color: white;
+    border: solid white;
+}
+
+li, a {
+    color: white !important;
 }

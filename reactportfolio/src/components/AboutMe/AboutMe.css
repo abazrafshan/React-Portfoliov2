@@ -1,14 +1,10 @@
-.padding {
-    padding: 20px;
-}
-
-.block {
-    background: lightgray;
-    margin-bottom: 0px;
-}
-
 .textcolor {
-    color: blue !important;
+    color: white !important;
+    font-family: 'Playfair Display SC';
+}
+
+p {
+    font-family: 'Playfair Display SC';
 }
 
 .margin-right {
@@ -17,4 +13,26 @@
 
 .textalignleft {
     text-align: left;
+    color: white;
+    font-family: 'Playfair Display SC';
+}
+
+#about-image {
+    border: solid white;
+}
+
+.backgroundabout {
+    background-image: url("../../Assets/Images/S7LT1i.jpg");
+    background-position: center;
+    background-size: cover;
+    position: fixed; 
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.transparent {
+    background-color: transparent !important;
+    color: white;
+    border: solid white;
+    border-radius: 10px;
 }

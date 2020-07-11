@@ -4,9 +4,9 @@ import { Link } from 'react-router';
 
 export default function Navbar(){
     return (
-        <div>
+        <div >
         {/* Responsive navigation bar, directs user to About Me, Portfolio, or Contact page */}
-            <nav classNameName="navbar navbar-expand-lg navbar-light ">
+            <nav className="navbar navbar-expand-lg navbar-light ">
             <a className="navbar-brand" href="index.html" id="logo">Arash Bazrafshan</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>

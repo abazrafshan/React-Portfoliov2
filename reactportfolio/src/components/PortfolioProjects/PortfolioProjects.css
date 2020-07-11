@@ -6,14 +6,13 @@
     padding: 20px;
 }
 
-.block {
-    background: lightgray;
-    margin-bottom: 0px;
+.backgroundportfolio {
+    background-image: url("../../Assets/Images/S7LT1i.jpg");
+    background-position: center;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
 }
-
-/* .textcolor {
-    color: black;
-} */
 
 .banner {
     position: absolute;
