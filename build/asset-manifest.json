@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00c6e1a5.chunk.css",
+    "main.js": "/static/js/main.da77fd2c.chunk.js",
+    "main.js.map": "/static/js/main.da77fd2c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e7c19c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e7c19c6.js.map",
+    "static/js/2.46c2815b.chunk.js": "/static/js/2.46c2815b.chunk.js",
+    "static/js/2.46c2815b.chunk.js.map": "/static/js/2.46c2815b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.555fc0810ceb1e77efb599c4f86d4141.js": "/precache-manifest.555fc0810ceb1e77efb599c4f86d4141.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.00c6e1a5.chunk.css.map": "/static/css/main.00c6e1a5.chunk.css.map",
+    "static/js/2.46c2815b.chunk.js.LICENSE.txt": "/static/js/2.46c2815b.chunk.js.LICENSE.txt",
+    "static/media/Burgerlogger.png": "/static/media/Burgerlogger.8c68d077.png",
+    "static/media/AboutMe.css": "/static/media/S7LT1i.51279603.jpg",
+    "static/media/YouMDb.png": "/static/media/YouMDb.139dd497.png",
+    "static/media/aboutme.jpg": "/static/media/aboutme.aafc75fb.jpg",
+    "static/media/LandingPage.css": "/static/media/outerspacehero.10807f67.jpeg",
+    "static/media/spacehubthumbnail.png": "/static/media/spacehubthumbnail.46a849f5.png",
+    "static/media/thievesmonopoly.png": "/static/media/thievesmonopoly.51a5a4f0.png",
+    "static/media/weather.png": "/static/media/weather.9a9955e0.png",
+    "static/media/workday.png": "/static/media/workday.c6e11377.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e7c19c6.js",
+    "static/js/2.46c2815b.chunk.js",
+    "static/css/main.00c6e1a5.chunk.css",
+    "static/js/main.da77fd2c.chunk.js"
+  ]
+}
