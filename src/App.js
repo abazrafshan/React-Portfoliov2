@@ -11,10 +11,10 @@ function App() {
     <Router>
       
     <div className="App">
-            <Route exact path="/" component={LandingPage} />
-            <Route exact path="/about" component={About} />
-            <Route exact path="/contact" component={ContactMe} />
-            <Route exact path="/portfolio" component={Portfolio} />
+            <Route exact path="https://abazrafshan.github.io/React-Portfoliov2/" component={LandingPage} />
+            <Route exact path="https://abazrafshan.github.io/React-Portfoliov2/about" component={About} />
+            <Route exact path="https://abazrafshan.github.io/React-Portfoliov2/contact" component={ContactMe} />
+            <Route exact path="https://abazrafshan.github.io/React-Portfoliov2/portfolio" component={Portfolio} />
     </div>
     </Router>
   );
